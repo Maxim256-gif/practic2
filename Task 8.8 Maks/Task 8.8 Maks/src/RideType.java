@@ -1,0 +1,3 @@
+enum RideType {
+    ROLLER_COASTER, CAROUSEL, FERRIS_WHEEL
+}
